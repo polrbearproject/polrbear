@@ -1,6 +1,12 @@
 # PoLRBear Project
 The PoLRBear Project
 
+# Requires
+python 3
+
+# Tested
+Tested on 3.8.6
+
 # Running
 1. Run python polrbear.py
 
