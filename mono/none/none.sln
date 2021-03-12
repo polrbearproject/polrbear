@@ -1,0 +1,14 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "none", "none.csproj", "{CBF9B578-6971-4DCC-B4EB-45E661C797EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF9B578-6971-4DCC-B4EB-45E661C797EE}.Release|x86.ActiveCfg = Release|x86
+		{CBF9B578-6971-4DCC-B4EB-45E661C797EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
